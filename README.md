@@ -30,7 +30,9 @@ CDN=1 bash -c "$(curl -fsSLk https://waf-ce.chaitin.cn/release/latest/setup.sh)"
 STREAM=1 bash -c "$(curl -fsSLk https://waf-ce.chaitin.cn/release/latest/setup.sh)"
 ```
 
+
 ![安装](https://img.picui.cn/free/2024/06/25/667a729eb6535.png)
+
 
 话不多说 这就来查看雷池新更新的动态防护吧
 这里雷池的版本一定要在6.0版本以上哦
